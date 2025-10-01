@@ -1,0 +1,8 @@
+{
+  "left_slide": [1, 0, 0, 0, 0],
+  "right_slide": [0, 0, 0, 0, 1],
+  "show_pointer": [0, 1, 1, 0, 0],
+  "draw": [0, 1, 0, 0, 0],
+  "erase_last_annotation": [0, 1, 1, 1, 0],
+  "exit": [0, 1, 1, 0, 1]
+}
